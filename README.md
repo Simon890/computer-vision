@@ -1,2 +1,2 @@
-# computer-vision
-Computer Vision
+# Computer vision
+### Alumno: Simón Revello
